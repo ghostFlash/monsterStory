@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<!--电子书尺寸 bookWidth宽度 bookHeight高度-->
 	<book bookWidth="900" bookHeight="600">
 		<!--url是背景音乐地址 -->
 		<!--volume背景音乐声音大小 1为正常声音，0为没有声音 -->
-		<backgroundSound url="http://www.citroen.cn/cn/model/test/test/sound.mp3" volume="1" />
+		<backgroundSound url="data/sound.mp3" volume="1" />
 		<pages>
 			<!-- page为每个页面（左右双页为一页）的背景图片或者flash文件， -->
 			<!-- 没有图片或者没有flash文件，空即可 -->	
